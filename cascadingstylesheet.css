@@ -1,5 +1,8 @@
 body {
-background-color: FFF9E3
+background-color: #EFF1EF
+}
+.h1head {
+font-family:arial;
 }
 .divEn {
 height: 50%;
@@ -15,9 +18,15 @@ text-align: justify;
 text-indent: .5in;
 font-size: 18px;
 }
+.h1left {
+font-family: arial
+}
 .h2 {
 text-align: center;
 font-family: arial
+}
+.h3left {
+font-family:arial;
 }
 nav {
 
