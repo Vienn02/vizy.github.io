@@ -1,1 +1,0 @@
-# vizy.github.io
