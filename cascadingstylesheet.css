@@ -10,7 +10,19 @@ background-color: #EDEFDD;
 padding: 5%;
 border-radius: 13px;
 margin-left: 2%;
-margin-right: 2%
+margin-right: 2%;
+position: static;
+top: 4px
+}
+.divEnrela {
+height: 50%;
+background-color: #D0C5E9;
+padding: 5%;
+border-radius: 13px;
+margin-left: 2%;
+margin-right: 2%;
+position: relative;
+top: 25px
 }
 .param {
 font-family: arial;
